@@ -148,6 +148,6 @@ elif page_selection == "Generate Insights":
 elif page_selection == "Settings":
     st.header("Settings")
     st.markdown("Adjust your preferences for the Sales Insights Assistant.")
-    st.text_input("API Key:", value=st.secrets.get("GROQ_API_KEY"), help="Enter your API key for the LLM.")
+    st.text_input("API Key:", help="Enter your API key for the LLM.")
     st.slider("Max Results for Search:", 1, 10, value=2, help="Set the maximum number of results for searches.")
 
