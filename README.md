@@ -1,5 +1,3 @@
-A link to the live site: https://ai-sale-rep.streamlit.app/
-
 Sales Insights Assistant
 
 The Sales Insights Assistant is a Streamlit-powered web application that helps sales representatives generate actionable insights about target companies and competitors. This tool leverages AI to analyze input data, retrieve relevant information from online sources, and produce professional, concise sales reports.
